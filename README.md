@@ -90,8 +90,8 @@ python StkView.py
 ├── AMD-RSI.png **Graphic for Relative Strength-Index**<br/>
 ├── Heatmap.png **Graphic for Heatmap**<br/>
 ├── LSTM.png **Graphic for the LSTM-Model**<br/>
-├── Monte Carlo.png **Graphic for Monte-Carlo**<br/>
-├── Sharpe Ratios.png **Graphic for Sharpe Ratios**<br/>
+├── Monte-Carlo.png **Graphic for Monte-Carlo**<br/>
+├── Sharpe-Ratios.png **Graphic for Sharpe Ratios**<br/>
 ├── requirements.txt	**Python dependencies**<br/>
 ├── README.md **This file**<br/>
 └── LICENSE **Unlicense**

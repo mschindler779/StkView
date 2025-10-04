@@ -211,7 +211,7 @@ for bar in bars:
     plt.text(bar.get_x() + bar.get_width() / 2, height, f'{height:.2f}',
              ha='center', va='bottom', fontsize=10)
 plt.tight_layout()
-plt.savefig('Sharpe Ratios.png')
+plt.savefig('Sharpe-Ratios.png')
 
 ##############################
 # Utilization of Monte Carlo #
@@ -243,7 +243,7 @@ plt.xlim(0, 250)
 plt.ylim(0, 700)
 for itervar in range(number_runs):
     plt.plot(x, simulated_prices[itervar], color = 'dodgerblue', linewidth = 0.1, alpha = 0.3)
-plt.savefig('Monte Carlo.png')
+plt.savefig('Monte-Carlo.png')
 
 ############################################
 # Implementation of Long Short-Term Memory #
