@@ -44,11 +44,11 @@ The **Relative Strength Index** (RSI) is a momentum oscillator used in technical
 
 The Sharpe Ration is a quick, widely-used metric that tells you how much excess return you're getting for each unit of risk you are taking on. In other words, it measures **risk-adjusted performance**. Why it matters: Two funds might have the same average return, but if one is much more volatile, the Sharpe Ratio will show that the risk-adjusted return is lower.
 
-![plot](Sharpe\ Ratios.png)
+![plot](Sharpe-Ratios.png)
 
 ## Monte-Carlo Simulation
 
-![plot](Montei\ Carlo.png)
+![plot](Monte-Carlo.png)
 
 ## Long Short-Term Memory Model
 
