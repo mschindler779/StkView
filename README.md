@@ -63,7 +63,7 @@ The Sharpe Ration is a quick, widely-used metric that tells you how much excess 
  
 ### Clone the repo:
 ```
-git clone https://github.com/mschindler779/StkView.git
+git clone https://github.com/markus-schindler/StkView.git
 cd FluxCat
 ```
 
